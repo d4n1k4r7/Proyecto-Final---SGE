@@ -2,8 +2,6 @@
 
 Plataforma concurrente y multiusuario desarrollada en **Elixir (OTP)** para coordinar la atención, logística de recursos, gestión de albergues, localización de personas y emparejamiento de mascotas tras un terremoto de gran magnitud.
 
-> 📄 **Informe Técnico y Diagramas del Proyecto:** Consulta [INFORME_PROYECTO.md](INFORME_PROYECTO.md) para ver los diagramas de Arquitectura de Módulos, Modelo de Datos, Diagrama de Secuencia, Árbol de Supervisión OTP, justificación de estructuras/recursividad y la Lista de Verificación Final.
-
 ---
 
 ## Información Académica
