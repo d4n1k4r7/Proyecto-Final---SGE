@@ -1,0 +1,2 @@
+# EmergencySystem TextStorage v1 - un registro por línea (términos Elixir)
+%EmergencySystem.Core.Person.FamilyMessage{id: "M001", sender: "carlos", recipient_doc: "1094001", content: "Estoy bien, vamos camino al Albergue Norte", status: :pendiente, timestamp: ~U[2026-11-17 03:26:12.036000Z]}

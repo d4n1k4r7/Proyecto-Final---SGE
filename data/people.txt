@@ -1,0 +1,2 @@
+# EmergencySystem TextStorage v1 - un registro por línea (términos Elixir)
+%EmergencySystem.Core.Person{id: "P001", name: "Andrés Pérez", document: "1094001", age: 30, zone: "zona_norte", status: :en_albergue, status_history: [{~U[2026-11-17 03:26:12.025000Z], :en_albergue, "Cambio a en_albergue en zona_norte"}, {~U[2026-11-17 03:26:12.015000Z], :localizada, "Registro inicial en zona zona_norte"}]}

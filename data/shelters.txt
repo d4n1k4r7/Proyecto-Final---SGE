@@ -1,0 +1,2 @@
+# EmergencySystem TextStorage v1 - un registro por línea (términos Elixir)
+%EmergencySystem.Core.Shelter{code: "A01", name: "Albergue Norte", zone: "zona_norte", max_capacity: 150, current_occupancy: 1, occupants: MapSet.new(["1094001"]), resources: MapSet.new([]), needs: MapSet.new([])}

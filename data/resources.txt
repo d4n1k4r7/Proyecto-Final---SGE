@@ -1,0 +1,2 @@
+# EmergencySystem TextStorage v1 - un registro por línea (términos Elixir)
+%EmergencySystem.Core.Resource{code: "R001", name: "agua", category: :agua, quantity: 20, unit: "litros", location: "centro_acopio_1", zone: nil, history: [{~U[2026-11-17 03:26:11.968000Z], :salida, 30, "Asignado a necesidad N001"}, {~U[2026-11-17 03:26:11.966000Z], :registro_inicial, 50, "Inventario inicial en centro_acopio_1"}]}

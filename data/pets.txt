@@ -1,0 +1,3 @@
+# EmergencySystem TextStorage v1 - un registro por línea (términos Elixir)
+%EmergencySystem.Core.PetReport{id: "PET001", type: :perdida, species: "perro", name: "Luna", traits: "negra", color: "negra", size: :mediana, zone: "zona_norte", contact: "3001112233", status: :posible_coincidencia, matched_with: "PET002"}
+%EmergencySystem.Core.PetReport{id: "PET002", type: :encontrada, species: "perro", name: "desconocido", traits: "negra", color: "negra", size: :mediana, zone: "zona_norte", contact: "3109998877", status: :posible_coincidencia, matched_with: "PET001"}
